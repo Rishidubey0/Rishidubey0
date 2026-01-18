@@ -1,5 +1,20 @@
-# 💫 About Me:
-🎨 I’m currently working on: Modern UI designs and front-end web interfaces<br>🤝 I’m looking to collaborate on: Creative web projects, design systems, and product-focused teams<br>🌱 I’m currently learning: Advanced UX strategies and performance-optimized front-end development<br>💬 Ask me about: UI/UX design, front-end development, usability, and design tools<br>⚡ Fun fact: I believe good design is invisible—but powerful ✨
+## 💫 About Me
+
+🎨 Currently Working On:<br>
+I am actively working on building modern, clean, and user-centric UI designs along with high-quality front-end web interfaces. My focus is on creating visually appealing layouts that are not only beautiful but also intuitive, responsive, and performance-driven. I enjoy turning complex ideas into simple, usable digital experiences.<br><br>
+
+🤝 Looking to Collaborate On:<br>
+I’m open to collaborating on creative web projects, design systems, and product-focused teams where design and development go hand in hand. I enjoy working with designers, developers, and product thinkers who value usability, consistency, and scalable design solutions.<br><br>
+
+🌱 Currently Learning:<br>
+I am continuously improving my skills in advanced UX strategies, design thinking, and performance-optimized front-end development. I’m exploring ways to enhance user engagement through better interactions, accessibility, and optimized rendering techniques.<br><br>
+
+💬 Ask Me About:<br>
+You can ask me about UI/UX design principles, front-end development, usability improvements, responsive layouts, and modern design tools. I enjoy discussing how design decisions impact user behavior and product success.<br><br>
+
+⚡ Fun Fact:<br>
+I truly believe that good design is invisible—but powerful ✨<br>
+When users don’t notice the design and everything just feels right, that’s when design has done its job.
 
 
 ## 🌐 Socials:
